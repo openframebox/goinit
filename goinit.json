@@ -1,0 +1,13 @@
+{
+    "availableArchitectures": [
+        "layered@v0"
+    ],
+    "boilerplates": {
+        "layered@v0": {
+            "name": "Layered Architecture (Pre-release)",
+            "description": "Simple go project with layered architecture. Focus on simplicity and ease of use for small-medium projects.",
+            "archiveUrl": "https://github.com/openframebox/goinit-layered/archive/refs/tags/v0.0.0.tar.gz",
+            "modulePlaceholder": "mymodule"
+        }
+    }
+}
