@@ -18,7 +18,7 @@ import (
 //go:embed goinit.json
 var configBytes []byte
 
-const version = "1.0.0"
+const version = "1.1.1"
 
 func main() {
 	cmd := &cobra.Command{
