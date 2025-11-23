@@ -1,6 +1,7 @@
 {
     "availableArchitectures": [
-        "layered@v0"
+        "layered@v0",
+        "simplified-ddd@v0"
     ],
     "boilerplates": {
         "layered@v0": {
@@ -8,6 +9,12 @@
             "description": "Simple go project with layered architecture. Focus on simplicity and ease of use for small-medium projects.",
             "archiveUrl": "https://github.com/openframebox/goinit-layered/archive/refs/tags/v0.0.0.tar.gz",
             "modulePlaceholder": "mymodule"
+        },
+        "simplified-ddd@v0": {
+            "name": "Simplified DDD Architecture (Pre-release)",
+            "description": "Simple go project with simplified DDD architecture. Scalable architecture for medium-large projects.",
+            "archiveUrl": "https://github.com/openframebox/goinit-simplified-ddd/archive/refs/tags/v0.0.0.tar.gz",
+            "modulePlaceholder": "goinitsimplifiedddd"
         }
     }
 }
